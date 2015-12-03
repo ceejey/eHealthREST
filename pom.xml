@@ -6,7 +6,7 @@
 	<groupId>ehealth.rest</groupId>
 	<artifactId>rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>eHealthREST</name>
 	<description>eHealth Recipe REST</description>
